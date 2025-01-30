@@ -31,7 +31,7 @@ The tests are written in TypeScript and are divided into three types:
 
 ```sh
 cd desktop # or path to wherever you want to save the project
-git clone https://github.com/niamh-d/pw-intro-vuejs
+git clone https://github.com/niamh-d/pw-intro-vuejs.git
 # open in VSCode
 cd pw-intro-vuejs
 code .
